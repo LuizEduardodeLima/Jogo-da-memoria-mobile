@@ -11,7 +11,10 @@ Jogo da memória criado com react native.
 
 
 ### Layout do jogo:
-![Imagem aviso](https://github.com/LuizEduardodeLima/Jogo-da-velha/blob/main/imgs/layout.png)
+![Imagem aviso](https://github.com/LuizEduardodeLima/Jogo-da-memoria-mobile/blob/main/assets/icone.jpeg)
 
-### Layout quando alguém ganha a partida:
-![Imagem aviso](https://github.com/LuizEduardodeLima/Jogo-da-velha/blob/main/imgs/ganhou.png)
+### Layout durante a partida:
+![Imagem aviso](https://github.com/LuizEduardodeLima/Jogo-da-memoria-mobile/blob/main/assets/jogando.jpeg)
+
+### Layout mostrando icone do app:
+![Imagem aviso](https://github.com/LuizEduardodeLima/Jogo-da-memoria-mobile/blob/main/assets/icone.jpeg)
