@@ -11,9 +11,6 @@ Jogo da memória criado com react native.
 
 
 ### Layout do jogo:
-![Imagem aviso](https://github.com/LuizEduardodeLima/Jogo-da-memoria-mobile/blob/main/assets/icone.jpeg)
-
-### Layout durante a partida:
 ![Imagem aviso](https://github.com/LuizEduardodeLima/Jogo-da-memoria-mobile/blob/main/assets/jogando.jpeg)
 
 ### Layout mostrando icone do app:
